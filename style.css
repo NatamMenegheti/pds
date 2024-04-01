@@ -1,0 +1,28 @@
+#Menu{
+    width: 250px;
+   margin: auto;
+   border-style:double;
+}
+
+#Menu h1{
+text-align: center;
+}
+
+#Slogan{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width:1000;
+    margin: auto;
+    background:white;
+    border-radius: 100px;
+    padding: 20px;
+}
+#AdCores{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30pt;
+    color: blue;
+    margin: auto;
+    width: 1300px;
+   
+}
